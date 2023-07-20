@@ -38,6 +38,7 @@ html {
     font-family: 'Montserrat', sans-serif;
     color: hsl(228, 12%, 48%);
     font-size: 15px;
+    line-height: 25px;
 }
 .card-info #name {
     width: 200px;
